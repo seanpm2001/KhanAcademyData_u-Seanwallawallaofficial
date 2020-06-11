@@ -91,7 +91,9 @@ These features are pending:
 
 1. [Version 1.0](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/releases/tag/V1.0) - Released June 9th 2020 at 6:31 pm
 
-2. [Version 1.0.1](https://www.example.com) - Coming soon
+2. [Version 1.01](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/releases/tag/V1.01) - Released June 10th 2020 at 11:00 pm
+
+3. [Version 1.02](https://www.example.com) - Coming soon
 
 ***
 
@@ -99,7 +101,7 @@ These features are pending:
 
 Currently, I am the only contributer.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - 42 commits (As of Tuesday, June 9th 2020 at 6:46 pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 201 commits (As of Wednesday, June 10th 2020 at 11:02 pm)
 
 > * 2. No other contributers at the moment
 
@@ -125,9 +127,9 @@ Currently, I am the only contributer.
 
 File type: `Markdown (*.md)`
 
-File version: `2 (Tuesday, June 9th 2020 at 6:46 pm)`
+File version: `3 (Wednesday, June 10th 2020 at 11:02 pm)`
 
-Line count: `0,137`
+Line count: `0,139`
 
 ***
 
