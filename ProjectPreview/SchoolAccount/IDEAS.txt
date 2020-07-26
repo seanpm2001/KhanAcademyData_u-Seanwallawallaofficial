@@ -1,0 +1,5 @@
+Ideas:
+
+Get photos of the projects output
+Make an all-in-one viewer HTML file, with all images and all scripts
+Make separate HTML files for all projects
