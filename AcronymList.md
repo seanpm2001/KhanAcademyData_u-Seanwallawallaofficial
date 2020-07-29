@@ -29,17 +29,27 @@ This is a list of acronyms used on this project.
 
 > * `MD` - This acronym stands for: `MarkDown`
 
+> * `INI` - This acronym stands for: `microsoft INItialization file`
+
+> * `ODT` - This acronym stands for: `Open Document Text`
+
+> * `TXT` - This acronym stands for: `plain TeXT`
+
+> * `HTM` - This acronym stands for: `HyperText Markup language`
+
+> * `ZIP` - This acronym stands for: `ZIP archive`
+
 Those are all the acronyms used on this project. If I missed any, please point them out.
 
 ***
 
 ## File info
 
-File version: `1 (Sunday, July 26th 2020 at 12:34 pm)`
+File version: `2 (Tuesday, July 28th 2020 at 5:05 pm)`
 
 File format: `Markdown (*.md)`
 
-Line count (including blank lines and compiler line): `47`
+Line count (including blank lines and compiler line): `57`
 
 ### End of file
 
