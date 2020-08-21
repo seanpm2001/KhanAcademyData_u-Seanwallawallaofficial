@@ -23,17 +23,19 @@ It spans from day 1159 to day 1189. no significant consecutive day milestones we
 
 3. Starting on July 20th 2020, the mobile screenshots folder was renamed from `mobile` to `cellular` to be more technical, as my laptop is mobile as well. This didn't take effect for the directory structure until this month
 
-4. No other notes for this month
+4. Starting on August 20th 2020, after an issue with OneDrive, I began using actual zipping software to make the Khan Academy cellular zip archives. So starting on August 20th 2020, cellular Khan Academy zip archives are compressed (originally, they were just OneDrive uploads and downloads, and OneDrive doesn't compress zip files)
+
+5. No other notes for this month
 
 ***
 
 ## File info
 
-July README version: `1 (Friday, August 7th 2020 at 11:11 am)`
+July README version: `2 (Friday, August 21st 2020 at 1:25 pm)`
 
 File type: `Markdown (*.md`)
 
-Line count (including blank lines and compiler line): `41`
+Line count (including blank lines and compiler line): `43`
 
 ### End of file
 
