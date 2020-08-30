@@ -1,7 +1,7 @@
 
 ***
 
-`/August/README.md`
+`/August-2020/README.md`
 
 # My August 2020 Khan Academy experience
 
@@ -9,7 +9,7 @@ This directory contains my Khan Academy pictures from all of August 2020.
 
 August 2020 is my 40th consecutive month on Khan Academy. This month, I continued to work on World History for the entire month, making it through the short renaissance and reformation chapter (1450 CE - 1750 CE) from August 1st 2020 to August 5th 2020, and starting the Enlightenment and revolution chapter (1750 CE - 1900 CE) from August 6th 2020 to August 25th 2020, then to work on the current final chapter of the World History unit (20th century) for the rest of the month, from August 26th 2020 to August 31st 2020.
 
-It spans from day 1159 to day 1189. no significant consecutive day milestones were reached this month. They include:
+It spans from day 1159 to day 1190. no significant consecutive day milestones were reached this month. They include:
 
 1. No significant consecutive day milestones were reached this month
 
@@ -33,7 +33,7 @@ It spans from day 1159 to day 1189. no significant consecutive day milestones we
 
 ## File info
 
-July README version: `3 (Thursday, August 27th 2020 at 1:53 pm)`
+August README version: `4 (Saturday, August 29th 2020 at 9:43 pm)`
 
 File type: `Markdown (*.md`)
 
