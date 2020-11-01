@@ -7,7 +7,7 @@
 
 This directory contains my Khan Academy pictures from all of October 2020.
 
-October 2020 is my 42nd consecutive month on Khan Academy. This month, I finished the world history unit (October 1st 2020) and started the World History Origins unit (October 2nd 2020) which I worked on for the rest of the month, getting to chapter 4.2.
+October 2020 is my 42nd consecutive month on Khan Academy. This month, I finished the world history unit (October 1st 2020) and started the World History Origins unit (October 2nd 2020) which I worked on for the rest of the month, getting to finish chapter 4.3. I start Unit 5.1 tomorrow.
 
 It spans from day 1221 to day 1251. 5 significant consecutive day milestones was reached this month. They include:
 
@@ -39,11 +39,11 @@ It spans from day 1221 to day 1251. 5 significant consecutive day milestones was
 
 ## File info
 
-September README version: `3 (Saturday, October 31st 2020 at 12:39 pm)`
+September README version: `4 (Saturday, October 31st 2020 at 1:40 pm)`
 
 File type: `Markdown (*.md`)
 
-Line count (including blank lines and compiler line): `75`
+Line count (including blank lines and compiler line): `87`
 
 Changes in version 2:
 
@@ -68,6 +68,18 @@ Changes in version 3:
 * Added a changes in version 3 section
 
 * No other changes in version 3
+
+Changes in version 4:
+
+I strive for complete accuracy, so this small edit was necessary.
+
+* Updated info on the last unit reached
+
+* Updated the file info section
+
+* Added a changes in version 4 section
+
+* No other changes in version 4
 
 ### End of file
 
