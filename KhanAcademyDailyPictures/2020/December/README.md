@@ -7,7 +7,7 @@
 
 This directory contains my Khan Academy pictures from all of December 2020.
 
-December 2020 is my 44th onsecutive month on Khan Academy. This month, I finalized the the World History Origins unit (Started: October 2nd 2020) which I worked on finishing up to December 5th 2020. I intend on starting the electrical engineering unit next, so I can learn the core concepts of electricity, along with intermediate knowledge on the workings of electricity.
+December 2020 is my 44th onsecutive month on Khan Academy. This month, I finalized the the World History Origins unit (Started: October 2nd 2020) which I worked on finishing up to December 5th 2020. I originally intended on starting the electrical engineering unit next, so I can learn the core concepts of electricity, along with intermediate knowledge on the workings of electricity, but I found that I had already mindlessly completed the unit in the past. I can't balance 2 units at once at the moment, so I switched to Biology instead, to learn more about it, and to invoke some 10th grade nostalgia.
 
 It spans from day 1282 to day 1313. 2 significant consecutive day milestones were reached this month. They include:
 
@@ -35,7 +35,7 @@ It spans from day 1282 to day 1313. 2 significant consecutive day milestones wer
 
 ## File info
 
-December 2020 README version: `1 (Friday, December 4th 2020 at 5:30 pm)`
+December 2020 README version: `2 (Monday, December 7th 2020 at 4:48 pm)`
 
 File type: `Markdown (*.md`)
 
