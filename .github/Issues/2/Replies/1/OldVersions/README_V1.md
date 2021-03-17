@@ -1,0 +1,1 @@
+I have started to make progress on this today, but I am going to be taking a break for now. I have removed all the IGNORE.md files that aren't necessary for all of June 2020, but I still have to dip down to May 2020 and lower. I don't feel like doing this right now, I am taking a break; this is just a status update.
