@@ -5,7 +5,7 @@
 
 ![KhanAcademy_Day1315_January3rd2020_1080p.png](KhanAcademy_Day1315_January3rd2020_1080p.png)
 
-Caption: the latest consecutive day picture before the removal of the consecutive day count
+**Caption:** `the latest consecutive day picture before the removal of the consecutive day count`
 
 # `README.md`
 
@@ -13,63 +13,81 @@ Caption: the latest consecutive day picture before the removal of the consecutiv
 
 # Index
 
-[Title](#README.md)
+[00.0 - Title](#README.md)
 
-[Index (recursive)](#Index)
+[01.0 - Index (recursive)](#Index)
 
-[Description](#KhanAcademyData_u-Seanwallawallaofficial)
+[02.0 - Description](#KhanAcademyData_u-Seanwallawallaofficial)
 
-[About](#About)
+[03.0 - About](#About)
 
-[Current issues](#Current_issues)
+[04.0 - Current issues](#Current_issues)
 
-[Major issues](#Major_issues)
+[05.0 - Major issues](#Major_issues)
 
-[Pending features](#Pending_features)
+[06.0 - Pending features](#Pending_features)
 
-[Monthly logs](#Monthly_logs)
+[07.0 - Monthly logs](#Monthly_logs)
 
-[File naming history](#File_naming_history)
+[08.0 - File naming history](#File_naming_history)
 
-[About the tree INI](#About_the_tree_INI)
+[09.0 - About the tree INI](#About_the_tree_INI)
 
-[Episode series](#Episode_series)
+[10.0 - Episode series](#Episode_series)
 
-[Programs used](#Programs_used)
+[11.0 - Programs used](#Programs_used)
 
-[Devices used](#Devices_used)
+[12.0 - Devices used](#Devices_used)
 
-[Documentation](#Documentation)
+[13.0 - Documentation](#Documentation)
 
-[Courses](#Courses)
+[14.0 - Courses](#Courses)
 
-[Programming projects](#Programming_projects)
+[15.0 - Programming projects](#Programming_projects)
 
-> [JavaScript projects](#JavaScript_projects)
+> [15.0.1 - JavaScript projects](#JavaScript_projects)
 
-> [SQL projects](#SQL_projects)
+> [15.0.2 - SQL projects](#SQL_projects)
 
-[Goals](#Goals)
+[16.0 - Goals](#Goals)
 
-[Starter info](#Starter_info)
+[17.0 - Starter info](#Starter_info)
 
-[Contributing](#Contributing)
+[18.0 - Contributing](#Contributing)
 
-[Wiki](#Wiki)
+[19.0 - Wiki](#Wiki)
 
-[Version history](#Version_history)
+[20.0 - Sponsor info](#Sponsor-info)
 
-[Contributers](#Contributers)
+[21.0 - Software status](#Software-status)
 
-[Resources](#Resources)
+[22.0 - Issues](#Issues)
 
-[Notes for future README updates](#Notes_for_future_README_updates)
+> [22.1 - Current issues](#Current-issues)
 
-[About README.md](#About_README.md)
+> [22.2 - Past issues](#Past-issues)
 
-[File history](#File_history)
+> [22.3 - Past pull requests](#Past-pull-requests)
 
-[Footer](#You_have_reached_the_end_of_the_README_file)
+> [22.4 - Active pull requests](#Active-pull-requests)
+
+[23.0 - Version history](#Version_history)
+
+[24.0 - Contributers](#Contributers)
+
+[25.0 - Contributing](#Contributing)
+
+[26.0 - Resources](#Resources)
+
+[27.0 - Notes for future README updates](#Notes_for_future_README_updates)
+
+[28.0 - About README.md](#About_README.md)
+
+[29.0 - File history](#File_history)
+
+[30.0 - Footer](#You_have_reached_the_end_of_the_README_file)
+
+> [30.5 - End of file](#EOF)
 
 ***
 
@@ -132,52 +150,101 @@ These features are pending:
 
 This is a list of monthly logs of README files for this project
 
+<html>
+
 <a href="/KhanAcademyDailyPictures/2017/May/README.md">May 2017</a>
+  
 <a href="/KhanAcademyDailyPictures/2017/June/README.md">June 2017</a>
+
 <a href="/KhanAcademyDailyPictures/2017/December/README.md">December 2017</a>
+
 <a href="/KhanAcademyDailyPictures/2018/June/README.md">June 2018</a>
+
 <a href="/KhanAcademyDailyPictures/2018/July/README.md">July 2018</a>
+
 <a href="/KhanAcademyDailyPictures/2018/August/README.md">August 2018</a>
+
 <a href="/KhanAcademyDailyPictures/2018/September/README.md">September 2018</a>
+
 <a href="/KhanAcademyDailyPictures/2018/October/README.md">October 2018</a>
+
 <a href="/KhanAcademyDailyPictures/2018/November/README.md">November 2018</a>
+
 <a href="/KhanAcademyDailyPictures/2018/December/README.md">December 2018</a>
+
 <a href="/KhanAcademyDailyPictures/2019/January/README.md">January 2019</a>
+
 <a href="/KhanAcademyDailyPictures/2019/February/README.md">February 2019</a>
+
 <a href="/KhanAcademyDailyPictures/2019/March/README.md">March 2019</a>
+
 <a href="/KhanAcademyDailyPictures/2019/April/README.md">April 2019</a>
+
 <a href="/KhanAcademyDailyPictures/2019/May/README.md">May 2019</a>
+
 <a href="/KhanAcademyDailyPictures/2019/June/README.md">June 2019</a>
+
 <a href="/KhanAcademyDailyPictures/2019/July/README.md">July 2019</a>
+
 <a href="/KhanAcademyDailyPictures/2019/August/README.md">August 2019</a>
+
 <a href="/KhanAcademyDailyPictures/2019/September/README.md">September 2019</a>
+
 <a href="/KhanAcademyDailyPictures/2019/October/README.md">October 2019</a>
+
 <a href="/KhanAcademyDailyPictures/2019/November/README.md">November 2019</a>
+
 <a href="/KhanAcademyDailyPictures/2019/December/README.md">December 2019</a>
+
 <a href="/KhanAcademyDailyPictures/2020/January/README.md">January 2020</a>
+
 <a href="/KhanAcademyDailyPictures/2020/February/README.md">February 2020</a>
+
 <a href="/KhanAcademyDailyPictures/2020/March/README.md">March 2020</a>
+
 <a href="/KhanAcademyDailyPictures/2020/April/README.md">April 2020</a>
+
 <a href="/KhanAcademyDailyPictures/2020/May/README.md">May 2020</a>
+
 <a href="/KhanAcademyDailyPictures/2020/June/README.md">June 2020</a>
+
 <a href="/KhanAcademyDailyPictures/2020/July/README.md">July 2020</a>
+
 <a href="/KhanAcademyDailyPictures/2020/August/README.md">August 2020</a>
+
 <a href="/KhanAcademyDailyPictures/2020/September/README.md">September 2020</a>
+
 <a href="/KhanAcademyDailyPictures/2020/October/README.md">October 2020</a>
+
 <a href="/KhanAcademyDailyPictures/2020/November/README.md">November 2020</a>
+
 <a href="/KhanAcademyDailyPictures/2020/December/README.md">December 2020</a>
+
 <a href="/KhanAcademyDailyPictures/2021/January/README.md">January 2021</a>
+
 <a href="/KhanAcademyDailyPictures/2021/February/README.md">February 2021</a>
+
 <a href="/KhanAcademyDailyPictures/2021/March/README.md">March 2021</a>
+
 <a href="/KhanAcademyDailyPictures/2021/April/README.md">April 2021</a>
+
 <a href="/KhanAcademyDailyPictures/2021/May/README.md">May 2021</a>
+
 <a href="/KhanAcademyDailyPictures/2021/June/README.md">June 2021</a>
+
 <a href="/KhanAcademyDailyPictures/2021/July/README.md">July 2021</a>
+
 <a href="/KhanAcademyDailyPictures/2021/August/README.md">August 2021</a>
+
 <a href="/KhanAcademyDailyPictures/2021/September/README.md">September 2021</a>
+
 <a href="/KhanAcademyDailyPictures/2021/October/README.md">October 2021</a>
+
 <a href="/KhanAcademyDailyPictures/2021/November/README.md">November 2021</a>
+
 <a href="/KhanAcademyDailyPictures/2021/December/README.md">December 2021</a>
+
+</html>
 
 ***
 
@@ -353,7 +420,6 @@ No TL;DR currently available.
 
 ***
 
-
 ## Contributing
 
 [Click here to learn how to contribute](CONTRIBUTING.md)
@@ -363,6 +429,112 @@ No TL;DR currently available.
 ## Wiki
 
 [Click/tap here to view this projects Wiki](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/wiki)
+
+If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
+
+***
+
+## Sponsor info
+
+![SponsorButton.png](SponsorButton.png)
+
+You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
+
+You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
+
+Try it out! The sponsor button is right up next to the watch/unwatch button.
+
+***
+
+## Software status
+
+All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
+
+![DRM-free_label.en.svg](DRM-free_label.en.svg)
+
+This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
+
+I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
+
+This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
+
+Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
+
+***
+
+***
+
+## Issues
+
+### Current issues
+
+* [1: Root folder is missing #1 ](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/1)
+
+* [4: The main README.md file needs an update #4 ](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/4)
+
+* [5: Formatted directories need to be made for 2018 #5 ](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/5)
+
+* [6: Output demo for programs #6 ](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/6)
+
+* [7: Files from January 2018 to May 31st 2018 inaccessible #7 ](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/7)
+
+* [8: (Feature request) YouTube channel data #8 ](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/8)
+
+* [9: Original directory system #9 ](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/9)
+
+* [12: Find/recreate data for August 5th 2018 #12 ](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/12)
+
+* No other current issues
+
+If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
+
+[Read the privacy policy on issue archival here](/.github/Issues/README.md)
+
+**TL;DR**
+
+I archive my own issues. Your issue won't be archived unless you request it to be archived.
+
+### Past issues
+
+* [2: IGNORE.md files prior to June 11th 2020 subject for deletion #2](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/2)
+
+* [3: 6.16.2020-6.19.2020 need to be added #3 ](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/3)
+
+* [10: (Small feature request) Acronym file #10 ](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/10)
+
+* [11: Wiki needs to be moved to /external/ #11 ](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/11)
+
+If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
+
+[Read the privacy policy on issue archival here](/.github/Issues/README.md)
+
+**TL;DR**
+
+I archive my own issues. Your issue won't be archived unless you request it to be archived.
+
+### Past pull requests
+
+None at the moment
+
+If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
+
+[Read the privacy policy on issue archival here](/.github/Issues/README.md)
+
+**TL;DR**
+
+I archive my own issues. Your issue won't be archived unless you request it to be archived.
+
+### Active pull requests
+
+None at the moment
+
+If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
+
+[Read the privacy policy on issue archival here](/.github/Issues/README.md)
+
+**TL;DR**
+
+I archive my own issues. Your issue won't be archived unless you request it to be archived.
 
 ***
 
@@ -442,7 +614,7 @@ ToDo: Update this section (outside contributors can help)
 
 Currently, I am the only contributer.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - 6403 commits (As of Tuesday, January 5th 2021 at 8:08 pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 6889 commits (As of Wednesday, March 17th 2021 at 5:02 pm)
 
 > * 2. No other contributers at the moment
 
@@ -541,9 +713,9 @@ Starter info
 
 File type: `Markdown (*.md)`
 
-File version: `5 (Wednesday, January 6th 2021 at 2:24 pm)`
+File version: `6 (Wednesday, March 17th 2021 at 5:02 pm)`
 
-Line count: `0,680`
+Line count: `0,887`
 
 ***
 
@@ -584,7 +756,6 @@ Version 2 (Tuesday, June 9th 2020 at 6:46 pm)
 > * Updated the `contributers` section
 
 > * Updated the `version history` section
-
 
 > * No other changes in version 2
 
@@ -668,12 +839,48 @@ _Massive update, finalizing several months of ideas_
 
 > * Updated the version history section
 
-Version 6 (Coming soon)
+> * No other changes in version 5
+
+Version 6 (Wednesday, March 17th 2021 at 5:02 pm)
+
+> Changes:
+
+> * Updated the index (9 new sections/subsections, added numbers)
+
+> * Updated the monthly logs section
+
+> * Added the issues section
+
+> * Added the sponsor-info section
+
+> * Updated the Wiki section
+
+> * Updated the contributors section
+
+> * Added the software status section
+
+> * Updated the title section
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * No other changes in version 6
+
+Version 7 (Coming soon)
 
 > Changes:
 
 > * Coming soon
 
+> * No other changes in version 7
+
+***
+
 ### You have reached the end of the README file
+
+[Back to top](#Top) [Exit](https://github.com)
+
+### EOF
 
 ***
