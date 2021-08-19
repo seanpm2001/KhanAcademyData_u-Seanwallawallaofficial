@@ -19,6 +19,9 @@
 # WebVTT
 *.vtt linguist-detectable=true
 *.vtt linguist-documentation=false
+# INI
+*.ini linguist-detectable=true
+*.ini linguist-documentation=false
 # JavaScript
 *.js linguist-detectable=true
 *.js linguist-documentation=false
@@ -37,6 +40,6 @@
 # End of linguist script
 # File info
 # File type: .gitattributes file
-# File version: 1 (Wednesday, August 18th 2021 at 9:06 pm)
-# Line count (including blank lines and compiler line): 43
+# File version: 2 (Wednesday, August 18th 2021 at 9:11 pm)
+# Line count (including blank lines and compiler line): 46
 # End of script
