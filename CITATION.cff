@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this data set (image data and documentation data) project, please cite it as below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "KhanAcademyData_u-Seanwallawallaofficial"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2021-12-25
+url: "https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial"
+cff-version: 1.2.0
+message: "If you use this data set (image data and documentation data) project, please cite it as below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Video game image data for machine learning and stock imagery"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2021-12-28
+url: "https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 12
+  start: 1 # First page number
+  end: 10000 # Last page number
+  title: "Khan Academy screenshots by Seanpm2001 for machine learning, entertainment, and stock imagery, along with educational samples and archives from my time with programming on Khan Academy."
+  issue: 1
+  volume: 1
+  year: 2021
+# File info
+# File version: 1 (2021, Tuesday, December 28th at 7:51 pm)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 44
