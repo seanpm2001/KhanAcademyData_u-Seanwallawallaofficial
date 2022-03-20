@@ -46,7 +46,7 @@ The following licenses are in use:
 - - [x] JavaScript data
 - - [x] SQL data
 - - [x] HTML data
-- [x] [`///SchoolAccount/Projects/`](/sCHOOLAccount/Projects/)
+- [x] [`///SchoolAccount/Projects/`](/SchoolAccount/Projects/)
 - - [x] JavaScript data
 
 ***
@@ -59,9 +59,9 @@ I am beginning to consider using the Unlicense for some parts of this project.
 
 ***
 
-**This document is incomplete**
+<!-- **This document is incomplete** !-->
 
-**License version:** `1.0 (2022, Saturday, March 19th at 10:33 pm)`
+**License version:** `2.0 (2022, Saturday, March 19th at 10:36 pm)`
 
 **Line count (including blank lines and compiler line):** `71`
 
