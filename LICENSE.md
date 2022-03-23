@@ -8,11 +8,13 @@ This project ([`seanpm2001/KhanAcademyData_u-Seanwallawallaofficial`](https://gi
 
 I am required legally to license the source code under the MIT license, due to how it was licensed on Khan Academy. I am aware of the problems with the MIT license, which is why I am trying my best to separate the 2 segments from each other.
 
-This is the license hub for KhanAcademyData_u-Seanwallawallaofficial. It is not a license itself, but describes what other licenses are used for.
+My goal is to use the MIT license as infrequently as possible, and the GNU General Public License 3.0 as much as possible. The MIT license is too weak, and grants too much power to corporations, which can result in a hostile takeover, which also is one of the top sources of open source development burnout. I don't care too much what happens to my old project data, so it isn't much of a loss to see it get taken over. I still retain ownership rights.
+
+This is the license hub for KhanAcademyData_u-Seanwallawallaofficial. It is not a license itself, but describes what each license is used for, and where.
 
 The following licenses are in use:
 
-> 💡 Tip: Click on any of the following 5 links to visit each license file individually
+> 💡 Tip: Click on any of the following q links to visit each license file individually
 
 - [x] 1. [`GNU General Public V3.0 License (GPL3)`](/LICENSE-GPL3.txt)
 - [x] 2. [`MIT license`](/LICENSE-MIT.txt)
@@ -55,13 +57,11 @@ The following licenses are in use:
 
 Unless noted otherwise, each file is licensed under the GNU General Public License V3.0.
 
-I am beginning to consider using the Unlicense for some parts of this project.
-
 ***
 
 <!-- **This document is incomplete** !-->
 
-**License version:** `2.0 (2022, Saturday, March 19th at 10:36 pm)`
+**License version:** `3.0 (2022, Tuesday, March 22nd at 10:55 pm)`
 
 **Line count (including blank lines and compiler line):** `71`
 
